@@ -3,4 +3,4 @@
 
 cleaned_consumption.csv - это final_consumtion_train.csv очищенный от транзакции с однковым id 
 
-orders_with_unitPrice.csv - это final_щквукы_train.csv с добавленным столбцом цены на еденичный товар 
+orders_with_unitPrice.csv - это final_orders_train.csv с добавленным столбцом цены на еденичный товар но 
