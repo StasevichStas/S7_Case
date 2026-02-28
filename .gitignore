@@ -1,2 +1,2 @@
-analize_dataset.ipynb
-delivery_analysis.ipynb
+*.ipynb
+!risk_analisis.ipynb
